@@ -1,6 +1,6 @@
 export const initialContacts = [
-  { id: 'id-1', name: 'Rosie Simpson', number: '459-12-56' },
-  { id: 'id-2', name: 'Hermione Kline', number: '443-89-12' },
-  { id: 'id-3', name: 'Eden Clements', number: '645-17-79' },
-  { id: 'id-4', name: 'Annie Copeland', number: '227-91-26' },
+  { id: 'id-1', name: 'Kolbun Andrii', number: '453-57-46' },
+  { id: 'id-2', name: 'Chornohorets Stas', number: '231-89-60' },
+  { id: 'id-3', name: 'Yatsyniuk Andrii', number: '094-34-29' },
+  { id: 'id-4', name: 'Morozenko Pavlo', number: '777-77-77' },
 ];
