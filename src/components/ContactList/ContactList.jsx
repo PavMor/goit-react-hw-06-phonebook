@@ -24,7 +24,7 @@ export const ContactList = () => {
               </Icon>
               <Name>{name}</Name>
               <Number>{number}</Number>
-              <Btn type="button" onClick={() => deleteContact(id)}>
+              <Btn type="button" onClick={() => dispatch (deleteContact(id))}>
               <FaTrash />
               </Btn>
             </ContactsItem>
